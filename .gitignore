@@ -1,0 +1,107 @@
+### Java ###
+# Compiled class file
+.class
+
+# Log file
+.log
+
+# BlueJ files
+.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp
+
+# Package Files #
+.jar
+.war
+.ear
+.zip
+.tar.gz
+.rar
+
+# virtual machine crash logs
+
+### VisualStudioCode ###
+.vscode
+!.vscodesettings.json
+!.vscodetasks.json
+!.vscodelaunch.json
+!.vscodeextensions.json
+.history
+
+### Intellij ###
+# Covers JetBrains IDEs IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference httpsintellij-support.jetbrains.comhcen-usarticles206544839
+
+# User-specific stuff
+.ideaworkspace.xml
+.ideatasks.xml
+.ideadictionaries
+
+# Sensitive or high-churn files
+.ideadataSources
+.ideadataSources.ids
+.ideadataSources.xml
+.ideadataSources.local.xml
+.ideasqlDataSources.xml
+.ideadynamic.xml
+.ideauiDesigner.xml
+
+# Gradle
+.ideagradle.xml
+.idealibraries
+
+# CMake
+cmake-build-debug
+
+# Mongo Explorer plugin
+.ideamongoSettings.xml
+
+## File-based project format
+.iws
+
+## Plugin-specific files
+
+# IntelliJ
+out
+
+# mpeltonensbt-idea plugin
+.idea_modules
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.ideareplstate.xml
+
+# Ruby plugin and RubyMine
+.rakeTasks
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+### Intellij Patch ###
+# Comment Reason httpsgithub.comjoeblaugitignore.ioissues186#issuecomment-215987721
+
+# .iml
+# modules.xml
+# .ideamisc.xml
+# .ipr
+
+# Sonarlint plugin
+.ideasonarlint
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
